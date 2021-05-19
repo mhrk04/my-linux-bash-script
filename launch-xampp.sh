@@ -1,2 +1,3 @@
 #! /bin/bash
-sudo ./opt/lampp/manager-linux-x64.run
+cd /opt/lampp/
+sudo ./manager-linux-x64.run
