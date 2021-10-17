@@ -1,6 +1,6 @@
 # my-linux-bash-script
 
-Mengandungi script untuk kegunaan seharian di Pop OS !
+Mengandungi script untuk kegunaan seharian di OS yang berbasis Debian !
 
 1. launch-xampp.sh - untuk buka xampp manager
 
